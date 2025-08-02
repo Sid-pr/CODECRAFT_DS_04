@@ -15,7 +15,7 @@ To:
 
 ## 📁 Dataset
 
-- **Source**: https://www.kaggle.com/datasets/jp797498e/twitter- entity-sentiment-analysis
+- **Source**: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 - **Format**: CSV/JSON with fields like:
   - `text` (post content)
   - `timestamp`
